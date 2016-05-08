@@ -11,5 +11,5 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context="com.innovation.innovationapp.MainActivity">
+    tools:context="com.innovation.app.MainActivity">
 </LinearLayout>

@@ -1,4 +1,4 @@
-package com.innovation.innovationapp;
+package com.innovation.app;
 
 import org.junit.Test;
 
